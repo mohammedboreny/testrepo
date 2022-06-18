@@ -1,0 +1,28 @@
+/*Set the body color to 'black', font to arial and font color to white.*/
+body {background-color:black;font-family: arial;color: white}
+
+
+/*Set the <h1> color to 'grey', font to verdana and the font size to 20 px*/
+h1{color:grey;font-family:verdana;;font-size: 20px}
+
+
+
+/*
+Set the background color to white,
+font color to black,
+width to 300 pixels,
+padding to 20px,
+the border radius to 25 px,
+and allign the div to the center of the page.
+in the newly created maindiv class
+*/
+.maindiv{background-color: white;color: black;width:300px;padding: 20px;
+    border-radius:25px; box-align:center
+
+
+}
+
+
+
+
+
